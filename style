@@ -1,7 +1,16 @@
 body {
     color: white;
     background: black;
+margin: 0px;
 }
 
+header {
+    border: solid 2px rgb(188, 200, 216);
+padding: 20px;
+font-size: 32px;
+color: rgb(174, 136, 189);
+}
 
-
+section{
+    background: rgb(184, 156, 213);
+}
